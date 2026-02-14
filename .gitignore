@@ -42,5 +42,5 @@ dist/
 build/
 *.egg-info/
 
-companies.csv
-Companies.ipynb
+*.csv
+*.ipynb
