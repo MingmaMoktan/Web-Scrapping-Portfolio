@@ -1,0 +1,7 @@
+Start Docker: Open your terminal and run following in your project folder.
+docker-compose up -d 
+
+Activate Python: 
+source venv/bin/activate.
+
+Open Dashboard: Go back to localhost:8080 in your browser.
